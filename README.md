@@ -1,6 +1,7 @@
 # robotix
 This repository contains projects and templates related to robotics, Arduino, AVR and similar. 
 ## Table of Contents
+* [ATtiny](#attiny)
 * [Reference](#reference)
 ## ATtiny 
 ![ATtiny-GIF](images/attiny_blink.gif)
