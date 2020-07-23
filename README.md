@@ -5,6 +5,7 @@ This repository contains projects and templates related to robotics, Arduino, AV
 * [Reference](#reference)
 ## ATtiny 
 <img src="images/attiny_blink.gif" width="450" />
+
 ```arduino
 void setup() 
 {
