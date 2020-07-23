@@ -3,5 +3,5 @@ This repository contains projects and templates related to robotics, Arduino, AV
 ## Table of Contents
 * [Reference](#reference)
 
-# Reference
+## Reference
 * https://www.arduino.cc/
