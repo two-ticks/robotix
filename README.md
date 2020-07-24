@@ -5,6 +5,7 @@ This repository contains projects and templates related to robotics, Arduino, AV
 * [ATtiny](#attiny)
 * [7-Segment Display](#7-segment-display)
 * [555 timer IC](#555-timer-ic)
+* [Button](#button)
 * [Reference](#reference)
 
 ## Introduction 
@@ -231,6 +232,31 @@ void loop()
 ```
 ## 555 timer IC
 <img src="images/555_ic.gif" width="450" />
+
+## Button 
+<img src="images/button.gif" width="450" />
+```C++
+
+int buttonState = 0;
+
+void setup()
+{
+  pinMode(2, INPUT);
+  pinMode(13, OUTPUT);
+}
+
+void loop()
+{
+  buttonState = digitalRead(2);
+  if (buttonState == HIGH) {
+    digitalWrite(13, HIGH);
+  } 
+  else {
+    digitalWrite(13, LOW);
+  }
+  delay(10); 
+}
+```
 
 ## Reference
 * https://www.arduino.cc/
