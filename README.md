@@ -3,7 +3,8 @@ This repository contains projects and templates related to robotics, Arduino, AV
 ## Table of Contents
 * [Introduction](#introduction)
 * [ATtiny](#attiny)
-* [7-Segment Display](#7segmentdisplay)
+* [7-Segment Display](#7-segment-display)
+* [555 timer IC](#555-timer-ic)
 * [Reference](#reference)
 
 ## Introduction 
@@ -228,6 +229,8 @@ void loop()
  }
 }
 ```
+## 555 timer IC
+<img src="images/555_ic.gif" width="450" />
 
 ## Reference
 * https://www.arduino.cc/
