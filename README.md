@@ -5,7 +5,7 @@ This repository contains projects and templates related to robotics, Arduino, AV
 * [ATtiny](#attiny)
 * [7-Segment Display](#7-segment-display)
 * [555 timer IC](#555-timer-ic)
-* [Button](#button)
+* [Push-Button](#push-button)
 * [Reference](#reference)
 
 ## Introduction 
@@ -233,7 +233,7 @@ void loop()
 ## 555 timer IC
 <img src="images/555_ic.gif" width="450" />
 
-## Button 
+## Push-Button 
 <img src="images/button.gif" width="450" />
 
 ```C++
