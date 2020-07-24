@@ -93,7 +93,7 @@ void displayNumber(int x) //display number
   }
 }
  
-void dispDec(int x)
+void dispDec()
 {
   digitalWrite(dp, LOW);
 }
