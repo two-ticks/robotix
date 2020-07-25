@@ -6,6 +6,7 @@ This repository contains projects and templates related to robotics, Arduino, AV
 * [7-Segment Display](#7-segment-display)
 * [555 timer IC](#555-timer-ic)
 * [Push-Button](#push-button)
+* [ATmega 2560](atmega-2560.md)
 * [Reference](#reference)
 
 ## Introduction 
