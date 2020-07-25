@@ -16,7 +16,7 @@ int main(void)
 	
 	while(1)
 	{
-		PORTB ^= 1 << PINB0;      // XOR (^) to toggle only pin 0 on port B
+		PORTB ^= 1 << PINB0;         // XOR (^) to toggle only pin 0 on port B
 		
 		if (bit_is_clear(PINB,1))  
 		{
