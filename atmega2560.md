@@ -1,7 +1,7 @@
 ## ATmega 2560
 ### Button
 
-![Button](images/atmegabutton.gif)
+<img src="images/atmegabutton.gif" width="450" />
 
 ```C++
 #include <avr/io.h>
