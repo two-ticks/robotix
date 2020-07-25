@@ -1,6 +1,7 @@
 ## ATmega 2560
 ### Button
 LED will blink faster when button is pressed.
+
 <img src="images/atmegabutton.gif" width="450" />
 
 ```C++
