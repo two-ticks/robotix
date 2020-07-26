@@ -4,5 +4,5 @@
 <img src="images/motor-driver-dual.gif" width="450" />
 
 ## L298 
-<img src="images/l293.gif" width="450" />
+<img src="images/l298.gif" width="450" />
 
