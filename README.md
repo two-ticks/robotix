@@ -3,6 +3,7 @@ This repository contains projects and templates related to robotics, Arduino, AV
 
 ## Table of Content
 * [Introduction](#introduction)
+* [Power Supply Pins](#power-supply-pins)
 * [Potentiometer](#potentiometer)
 * [ATtiny](#attiny)
 * [555 timer IC](#555-timer-ic)
