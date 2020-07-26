@@ -21,11 +21,11 @@ You can use [Tinkercad](https://www.tinkercad.com/) to simulate circuits. If you
 
 ## Power Supply Pins
 
-| <!-- --> | <!-- --> | <!-- --> |
-| --------------- | --------------- | --------------- |
-| Positive supply voltage | V<sub>CC</sub> | V<sub>BB</sub> |
-| Negative supply voltage | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+| Type of Supply  | BJT | FET | BJT | FET |
+| --------------- | --------------- | --------------- | --------------- | --------------- |
+| Positive supply voltage | V<sub>CC</sub> / V<sub>BB</sub> | V<sub>DD</sub>  | V+ | V<sub>S+</sub> |
+| Negative supply voltage | V<sub>CC</sub> / V<sub>BB</sub> | V<sub>DD</sub>  | V+ | V<sub>S+</sub> |
+| Ground                  | V<sub>CC</sub> / V<sub>BB</sub> | V<sub>DD</sub>  | V+ | V<sub>S+</sub> |
 
 
 ## Potentiometer
