@@ -2,6 +2,7 @@
 This repository contains projects and templates related to robotics, Arduino, AVR and similar. Intention behind this repository is to provide beginners easier access to code and circuit diagrams. 
 ## Table of Content
 * [Introduction](#introduction)
+* [Potentiometer](#potentiometer)
 * [ATtiny](#attiny)
 * [555 timer IC](#555-timer-ic)
 * [Push-Button](#push-button)
@@ -17,7 +18,8 @@ You can use [Tinkercad](https://www.tinkercad.com/) to simulate circuits. If you
 <img src="images/hello-world.png" width="550" />
 
 ## Potentiometer
-<img src="images/potentiometer.png" width="250" /> 
+Potentiometer is three-terminal device which we will use in our projects to adjust voltage. 
+<img src="images/potentiometer.png" width="250" /> There are two terminal pins and one wiper(pin in middle). Terminals are when connected to Vcc and GND (in any manner), output at the wiper will change depending upon rotation of shaft.
 
 <img src="images/potentiometer.gif" width="550" />
 
