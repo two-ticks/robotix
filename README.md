@@ -1,6 +1,6 @@
 # ROBOTIX
 This repository contains projects and templates related to robotics, Arduino, AVR and similar. Intention behind this repository is to provide beginners easier access to code and circuit diagrams. 
-## Index
+## Table of Content
 * [Introduction](#introduction)
 * [ATtiny](#attiny)
 * [555 timer IC](#555-timer-ic)
