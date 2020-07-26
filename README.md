@@ -28,7 +28,7 @@ There are two terminal-pins(left and right) and one wiper(middle). Terminals are
 ## ATtiny 
 <img src="images/attiny_blink.gif" width="450" />
 
-```arduino
+```c++
 void setup() 
 {
   pinMode(0, OUTPUT); // set pin0 as output
