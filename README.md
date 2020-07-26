@@ -1,7 +1,6 @@
-<img src="images/hello-world.png" width="450" />
-
 # ROBOTIX
 This repository contains projects and templates related to robotics, Arduino, AVR and similar. Intention behind this repository is to provide beginners easier access to code and circuit diagrams. 
+<img src="images/hello-world.png" width="750" />
 ## Table of Contents
 * [Introduction](#introduction)
 * [ATtiny](#attiny)
