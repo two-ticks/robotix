@@ -14,7 +14,7 @@ This repository contains projects and templates related to robotics, Arduino, AV
 You may have Arduino Board or may have not, but not having the board can't stop you from learnig cool stuff and making building future technology.
 You can use [Tinkercad](https://www.tinkercad.com/) to simulate circuits. If you have board then you can download [Arduino IDE](https://www.arduino.cc/en/Main/Software) or can use Arduino Online Editor. 
 
-> <img src="images/hello-world.png" width="550" />
+<img src="images/hello-world.png" width="550" />
 
 ## ATtiny 
 <img src="images/attiny_blink.gif" width="450" />
