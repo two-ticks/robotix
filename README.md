@@ -19,6 +19,7 @@ You can use [Tinkercad](https://www.tinkercad.com/) to simulate circuits. If you
 
 ## Potentiometer
 Potentiometer is three-terminal device which we will use in our projects to adjust voltage. 
+
 <img src="images/potentiometer.png" width="250" /> There are two terminal pins and one wiper(pin in middle). Terminals are when connected to Vcc and GND (in any manner), output at the wiper will change depending upon rotation of shaft.
 
 <img src="images/potentiometer.gif" width="550" />
