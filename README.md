@@ -1,5 +1,6 @@
 # ROBOTIX
 This repository contains projects and templates related to robotics, Arduino, AVR and similar. Intention behind this repository is to provide beginners easier access to code and circuit diagrams. 
+
 ## Table of Content
 * [Introduction](#introduction)
 * [Potentiometer](#potentiometer)
@@ -12,12 +13,20 @@ This repository contains projects and templates related to robotics, Arduino, AV
 * [Reference](#reference)
 
 ## Introduction 
+
 You may have Arduino Board or may have not, but not having the board can't stop you from learnig cool stuff and making building future technology.
 You can use [Tinkercad](https://www.tinkercad.com/) to simulate circuits. If you have board then you can download [Arduino IDE](https://www.arduino.cc/en/Main/Software) or can use Arduino Online Editor. 
 
 <img src="images/hello-world.png" width="550" />
 
+## Power Supply Pins
+
+------------ | ------------- | 
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 ## Potentiometer
+
 Potentiometer is three-terminal device which we will use in our projects to adjust voltage. 
 
 <img src="images/potentiometer.png" width="250" /> 
@@ -27,6 +36,7 @@ Terminals are when connected to Vcc and GND (in any manner), output at the wiper
 <img src="images/potentiometer.gif" width="550" />
 
 ## ATtiny 
+
 <img src="images/attiny_blink.gif" width="450" />
 
 ```c++
@@ -46,9 +56,11 @@ void loop()
 ```
 
 ## 555 timer IC
+
 <img src="images/555_ic.gif" width="450" />
 
 ## Push-Button 
+
 <img src="images/button.gif" width="450" />
 
 ```C++
@@ -75,5 +87,6 @@ void loop()
 ```
 
 ## Reference
+
 * https://www.arduino.cc/
 * https://www.tinkercad.com/
