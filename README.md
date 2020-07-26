@@ -1,7 +1,7 @@
 # ROBOTIX
 This repository contains projects and templates related to robotics, Arduino, AVR and similar. Intention behind this repository is to provide beginners easier access to code and circuit diagrams. 
 
-## Table of Content
+## Table of Contents
 * [Introduction](#introduction)
 * [Power Supply Pins](#power-supply-pins)
 * [Potentiometer](#potentiometer)
