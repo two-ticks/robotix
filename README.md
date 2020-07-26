@@ -21,10 +21,10 @@ You can use [Tinkercad](https://www.tinkercad.com/) to simulate circuits. If you
 
 ## Power Supply Pins
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | V<sub>CC</sub>/V<sub>BB</sub>
-Content in the first column | Content in the second column
+             |               |               |
+------------ | ------------- | ------------- |
+Positive supply voltage | V<sub>CC</sub>/V<sub>BB</sub>/V<sub>DD</sub>|V+|V<sub>S+</sub>
+Negative supply voltage| Content in the second column
 
 ## Potentiometer
 
