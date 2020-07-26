@@ -16,6 +16,10 @@ You can use [Tinkercad](https://www.tinkercad.com/) to simulate circuits. If you
 
 <img src="images/hello-world.png" width="550" />
 
+## Potentiometer
+<img src="images/potentiometer.png" width="550" />
+<img src="images/potentiometer.gif" width="550" />
+
 ## ATtiny 
 <img src="images/attiny_blink.gif" width="450" />
 
