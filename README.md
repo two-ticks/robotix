@@ -90,7 +90,7 @@ void loop()
 }
 ```
 
-## Reference
+## References
 
 * https://www.arduino.cc/
 * https://www.tinkercad.com/
