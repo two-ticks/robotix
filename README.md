@@ -11,6 +11,7 @@ This repository contains projects and templates related to robotics, Arduino, AV
 * [ATmega 2560](atmega-2560.md)
 * [7-Segment Display](7-segment-display.md)
 * [Motor-Drivers](motor-drivers.md)
+* [Bitwise Operators](bitwise.md)
 * [Reference](#reference)
 
 ## Introduction 
