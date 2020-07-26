@@ -21,7 +21,7 @@ You can use [Tinkercad](https://www.tinkercad.com/) to simulate circuits. If you
 
 ## Power Supply Pins
 
-| Column 1 Header | Column 2 Header | Column 3 Header |
+| <!-- --> | <!-- --> | <!-- --> |
 | --------------- | --------------- | --------------- |
 | Positive supply voltage | V<sub>CC</sub> | V<sub>BB</sub> |
 | Negative supply voltage | Row 2 Column 2 | Row 2 Column 3 |
