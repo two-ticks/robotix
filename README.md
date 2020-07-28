@@ -14,6 +14,7 @@ This repository contains projects and templates related to robotics, Arduino, AV
 * [Bitwise Operators](bitwise.md)
 * [Clipper Circuits](clipper.md)
 * [BJT](bjt.md)
+* [Op-Amp](op-amp.md)
 * [Reference](#reference)
 
 ## Introduction 
