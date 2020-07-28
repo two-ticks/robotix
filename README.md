@@ -13,6 +13,7 @@ This repository contains projects and templates related to robotics, Arduino, AV
 * [Motor-Drivers](motor-drivers.md)
 * [Bitwise Operators](bitwise.md)
 * [Clipper Circuits](clipper.md)
+* [BJT](bjt.md)
 * [Reference](#reference)
 
 ## Introduction 
