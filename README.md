@@ -15,7 +15,7 @@ This repository contains projects and templates related to robotics, Arduino, AV
 * [Clipper Circuits](clipper.md)
 * [BJT](bjt.md)
 * [Op-Amp](op-amp.md)
-* [Reference](#reference)
+* [References](#references)
 
 ## Introduction 
 
