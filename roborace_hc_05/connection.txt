@@ -1,0 +1,11 @@
+hc - 05 | arduino
+--------| -------
+STA     | FLOATING 
+rx      | tx
+tx      | rx
+gnd     | gnd
++5V     | + 5V
+EN*     | + 3.3V 
+
+NAME: hc-05
+PASSWORD : 1234
